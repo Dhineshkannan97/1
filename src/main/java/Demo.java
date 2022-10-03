@@ -23,7 +23,7 @@ public class Demo {
             for (int j = 0; j < b.length; j++) {
                 d.add(b[j]);
             }
-        }h
+        }
 
          system.out.println(d);
 
